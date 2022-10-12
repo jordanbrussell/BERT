@@ -1,11 +1,10 @@
 # NLP Modeling for Twitter Stock Performance Prediction 
 
-
-Logistic Regression: 0.73
-Support Vector Classification: 0.68
-Decision Tree: 0.51
-Random Forest: 0.69
-XGBoost: 0.69
+Logistic Regression: 0.73,
+Support Vector Classification: 0.68,
+Decision Tree: 0.51,
+Random Forest: 0.69,
+XGBoost: 0.69,
 ##### BERT: 0.84
 
 
