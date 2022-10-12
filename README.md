@@ -1,5 +1,7 @@
 # NLP Modeling for Twitter Stock Performance Prediction 
 
+## Model Comparison:
+
 Logistic Regression: 0.73,
 Support Vector Classification: 0.68,
 Decision Tree: 0.51,
