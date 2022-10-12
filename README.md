@@ -1,19 +1,18 @@
 # NLP Modeling for Twitter Stock Performance Prediction 
 
-### Model Comparison:
+### Model Sentiment Prediction Accuracy:
 
-Logistic Regression: 0.73,
+BERT: 0.84
 
-Support Vector Classification: 0.68,
-
-Decision Tree: 0.51,
+Logistic Regression: 0.73
 
 Random Forest: 0.69,
 
 XGBoost: 0.69,
 
-##### BERT: 0.84
+Support Vector Classification: 0.68
 
+Decision Tree: 0.51
 
 ### Capstone Result Visualization 
 
