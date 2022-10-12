@@ -1,6 +1,6 @@
 # NLP Modeling for Twitter Stock Performance Prediction 
 
-### Model Sentiment Prediction Accuracy:
+### Sentiment Prediction Modeling (Accuracy):
 
 BERT: 0.84
 
