@@ -23,7 +23,7 @@ Decision Tree: 0.51
 
 ## Final Model Details:
 
-![image](https://user-images.githubusercontent.com/114745325/195252223-47900fc9-aaf8-463b-ad5d-870a7eaeebe6.png)
+![image](https://user-images.githubusercontent.com/114745325/195260468-c9ab7d64-e61b-43bf-a001-7f941a2fff20.png)
 
 ![image](https://user-images.githubusercontent.com/114745325/195252183-83a13f40-f6c8-4456-a6f9-386c563f18cb.png)
 
