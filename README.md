@@ -1,6 +1,6 @@
 # NLP Modeling for Twitter Stock Performance Prediction 
 
-## Model Comparison:
+### Model Comparison:
 
 Logistic Regression: 0.73,
 Support Vector Classification: 0.68,
@@ -10,7 +10,7 @@ XGBoost: 0.69,
 ##### BERT: 0.84
 
 
-Capstone Result Visualization 
+### Capstone Result Visualization 
 
 
 ### S&P500 #SPY
