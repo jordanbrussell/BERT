@@ -30,8 +30,14 @@ Decision Tree: 0.51
 ## RSI & Hugging Face Modeling Application
 
    Ticker  Returns_multiple   RS_Rating  RS_BERT_Score
+   
+   
 0       A              1.01   73.333333       0.831793
+
 27   AMAT              1.02   91.666667       0.794565
+
 13   ADSK              1.04  100.000000       0.731145
+
 8     ACN              1.01   73.333333       0.704095
+
 5     ABC              1.01   73.333333       0.680832
