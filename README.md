@@ -1,5 +1,10 @@
 # NLP Modeling for Twitter Stock Performance Prediction 
 
+### Sentiment140 Dataset:
+
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
+
 ### Sentiment Prediction Modeling (Accuracy):
 
 BERT: 0.85
