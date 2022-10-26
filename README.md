@@ -2,17 +2,15 @@
 
 ### Sentiment Prediction Modeling (Accuracy):
 
-BERT: 0.84
+BERT: 0.85
 
-Logistic Regression: 0.73
+Logistic Regression: 0.79
 
-XGBoost: 0.69
+Support Vector Classification: 0.79
 
-Random Forest: 0.69
+BernoulliNB: 0.78
 
-Support Vector Classification: 0.68
 
-Decision Tree: 0.51
 
 ## Capstone Result Visualization 
 
