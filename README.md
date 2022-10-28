@@ -1,5 +1,7 @@
 # NLP Modeling for Twitter Stock Performance Prediction 
 
+Can stock performance be determined via Twitter Sentiment?
+
 ### Sentiment140 Dataset:
 
 https://www.kaggle.com/datasets/kazanova/sentiment140
